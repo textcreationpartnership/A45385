@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning-peece for England by that sad and fearefull example that hath happened to men, women and children, all sorts of cattle and fowles, by stormes, tempests, hail-stones, lightning, and thunder, June 25, 1652 / written by Charles Hammond.</title>
+            <author>Hammond, Charles, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45385</idno>
+            <idno type="STC">Wing H499</idno>
+            <idno type="STC">ESTC R32474</idno>
+            <idno type="EEBO-CITATION">12697047</idno>
+            <idno type="OCLC">ocm 12697047</idno>
+            <idno type="VID">65903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65903)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1527:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning-peece for England by that sad and fearefull example that hath happened to men, women and children, all sorts of cattle and fowles, by stormes, tempests, hail-stones, lightning, and thunder, June 25, 1652 / written by Charles Hammond.</title>
+                  <author>Hammond, Charles, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton ... in Smithfield,</publisher>
+                  <pubPlace>[Smithfield] :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Disasters --  Religious aspects --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65903:1"/>
+            <p>A VVARNING-PEECE FOR <hi>ENGLAND.</hi>
+            </p>
+            <p>By that ſad and fearefull Example that hath happened to Mèn, Women, and Children, all ſorts of Cattle and Fowles; by Stormes, Tempeſts, Hail-ſtones, Light<g ref="char:EOLhyphen"/>ning and Thunder, <hi>June</hi> 25. 1652.</p>
+            <p>Written by <hi>Charles Hammond.</hi>
+            </p>
+            <q>
+               <bibl>Joel 2.30, 31.</bibl>
+               <p>And I will ſhew Wonders in Heaven, and in Earth, Bloud and Fire, and Pil<g ref="char:EOLhyphen"/>lars of Smoake.</p>
+               <p>The Sun ſhall be turned into darke<g ref="char:EOLhyphen"/>neſſe, and the Moon into blood, before the great and terrible day of the Lord come.</p>
+            </q>
+            <p>Printed for <hi>Richard Burton,</hi> at the Horſe-ſhooe in Smithfield.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65903:2"/>
+            <pb n="1" facs="tcp:65903:2"/>
+            <head>A WARNING-Peece for all ENGLAND.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">B</seg>Eloved Friends,</salute>
+            </opener>
+            <p>I have here preſented to you a ſmall Booke called, <hi>A Warning-peece for all England;</hi> which I would de<g ref="char:EOLhyphen"/>ſire all true Chriſtians to hearken to it; and being fore-warned by thoſe wonderfull Examples of Al<g ref="char:EOLhyphen"/>mightie Gods heavie Iudgements, which I ſhall here relate unto you, that hath happened in this our Na<g ref="char:EOLhyphen"/>tion of late, that you may be here<g ref="char:EOLhyphen"/>after fore-warned by Prayer to pre<g ref="char:EOLhyphen"/>vent &amp; ſtop the heavie wrath of God, which deſervedly is like to be poured out upon us all.</p>
+            <p>This is no Fable, nor invented
+<pb facs="tcp:65903:3"/>Story, which is here to bée related, but ſuch truths, that thouſands can witneſſe it: but now adayes many folks in this our Nation, are ſo hard of beliefe, that they will not beléevs unleſſe they ſée; who are like <hi>Thomas Didimus,</hi> or like thoſe People in <hi>Noahs</hi> time, that all the time he was building the Arke, would not beléeve the Floud, till ſuch time as it came upon them and drowned them all.</p>
+            <p>So in theſe our times, wée have heard of the Iudgements that Al<g ref="char:EOLhyphen"/>mighty GOD hath ſent in this our Nation, and yet we will not beléeve it; and if we did, we never ſtrove by hearty Prayer and ſound Repent<g ref="char:EOLhyphen"/>ance to kéepe the like from us: but to our great griefe, we have of late both ſéen, heard, and felt the Won<g ref="char:EOLhyphen"/>ders and Iudgements of the Lord here amongſt us; and yet our hearts are as hard as ever they were: and ſo ſtiffe-necked we are, that we will not humble our ſelves, nor bow down neither our necks nor our knées by Prayer to the Lord our GOD, that he may ſtop his Wrath and Iudge<g ref="char:EOLhyphen"/>ments, and withdraw his heavie
+<pb n="11" facs="tcp:65903:3"/>hand from this ſinfull and prophane Nation.</p>
+            <p>How many ſad and wofull Acci<g ref="char:EOLhyphen"/>dents hath there befallen many peo<g ref="char:EOLhyphen"/>ple ſince the beginning of this pre<g ref="char:EOLhyphen"/>ſent Yeare, by hanging, drowning, and killing themſelves, and one ano<g ref="char:EOLhyphen"/>ther? It may juſtly be called a yeare of Wonder and Admiration, the like whereof hath not in any age béene known.</p>
+            <p>Therefore, all you that are true Chriſtians, and loves the Name of our Lord and Saviour Ieſus Chriſt I deſire you all that read or heare this Booke, to love, honour, and feare that great God of Gods, and King of Kings, who by his Almighty pow<g ref="char:EOLhyphen"/>er can make the Earth ſhake and tremble, and the Foundations of the Hills to move, as you ſhall finde it written in the 18 <hi>Pſalme</hi> (when <hi>David</hi> called upon the Lord to deli<g ref="char:EOLhyphen"/>ver him from his Enemies) and the 11, 12, and 13 verſes; <hi>Hee made Darkneſſe his ſecret place, his Pavillion round about him were darke Waters, and thick Clouds of the Skies: At the brightneſſe that was before him his
+<pb facs="tcp:65903:4"/>thick Clouds paſſed, Haile-ſtones and Coales of Fire: The Lord alſo Thun<g ref="char:EOLhyphen"/>dred in the Heavens, and the Higheſt gave his voice; Haile-ſtones, and Coals of Fire.</hi>
+            </p>
+            <p>The LORD hath a long time ſpoken to this ſinfull Nation, by the voyce of the Goſpell, and by his Mi<g ref="char:EOLhyphen"/>niſters; which we not regarding, he now begins to ſpeake loud to us, by the terrible voyce of Thunder and Lightning, which many places of this our Land hath of late felt; as for example:</p>
+            <p>On the twentieth of <hi>June</hi> laſt, at a place called <hi>Laughton,</hi> a Towne in <hi>Cheſhire,</hi> there happened ſuch a tempeſtuous ſtorme of Thunder, Lightning, and Haile, in the Church of that Towne, that amazed all the People therein, killed a great many in the ſaid Church, to the num<g ref="char:EOLhyphen"/>ber of eleven, and alſo hurt many: Whilſt the Miniſter was executing his place, there came a flaſh of fire into the Pulpit, which ſtruck him downe, but God be praiſed it did him no hurt. It is a wonderfull Relati<g ref="char:EOLhyphen"/>on concerning the paſſages of it: for
+<pb facs="tcp:65903:4"/>they that were ſtrucken dead, never groaned, nor ſpoke not a word before they dyed; and ſome that ſat next them never hurt, and yet touched them, to the aſtoniſhment of all thoſe that ſaw it: Some were ſtrucken and lay for dead, but recovered a<g ref="char:EOLhyphen"/>gaine; and others were wounded, and dyed ſince: there was a Child in the Mothers armes killed with the flaſh<g ref="char:EOLhyphen"/>ing of Lightning, and the Mother not hurt.</p>
+            <p>In ſeverall places of this our Na<g ref="char:EOLhyphen"/>tion, there was Houſes and Barnes burned and ſhattered down, &amp; many great Trées torne up by the rootes.</p>
+            <p>At <hi>Greenwich</hi> in <hi>Kent<g ref="char:punc">▪</g>
+               </hi> there hap<g ref="char:EOLhyphen"/>pened ſuch a Storme of Thunder, Lightning, and Haile, that it broake not only many glaſſe-windowes, but it broake downe the tops of many Houſes in the ſaid Town, and over<g ref="char:EOLhyphen"/>threw the gates of the Parke by the violence thereof.</p>
+            <p>At <hi>Uxbridge,</hi> by the violence of the Thunder, it threw a great doore of from the hinges, &amp; broke a great part of the houſe, a man being at the doore blew him down, yet did him no harm<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <pb facs="tcp:65903:5"/>
+Alſo, at <hi>Weſtcheſter,</hi> the ſide of a Church was beaten downe, but did no hurt.</p>
+            <p>At <hi>Ingerſtone</hi> in <hi>Eſſex,</hi> a péece of that Stéeple was beaten down, and a Pillar of the Church.</p>
+            <p>Thrée Maids being together diſ<g ref="char:EOLhyphen"/>puting one with another, one of the<g ref="char:cmbAbbrStroke">̄</g> having a Bible in her hand, which Maid was a Papiſt, it is ſaid immè<g ref="char:EOLhyphen"/>diatly came a flaſh of lightning and ſtruck her dead, and the other two had no harme, nor the Bible hurt.</p>
+            <p>Beſides, in ſundry places, Hogs, Shéep, Oxen, Horſes, &amp; divers other Cattle, were killed in this tempeſt of Thunder, Lightning, &amp; Haile, Great ſtormes &amp; ſhowers of Haile &amp; Raine in ſome places, and in ſome none at all; in ſome Townes the people hath ſéen the ſtormes and ſhowers round about them, and no Raine at all with them: There hath béene great harme done by the floods &amp; waters in ſome places, and within five miles a<g ref="char:EOLhyphen"/>gaine, great want of raine &amp; water, to refreſh the thirſty land, which wanted.</p>
+            <p>Now, you may ſée the wonders of
+<pb n="9" facs="tcp:65903:5"/>the Lord, &amp; the power of the Almigh<g ref="char:EOLhyphen"/>ty; ſome of thoſe Haile-ſtones that fell, 'tis reported by many credible people that they were as big as egs, &amp; very Icie and hard, ſome had the print of a Roſe and Crowne, &amp; ſome the print of Death.</p>
+            <p>A moſt miſerable ſad Accident happened in the Church and Towne of <hi>South-Okenton</hi> in <hi>Eſſex,</hi> the 21 of this inſtant <hi>June,</hi> about ſix a cloke at night, at which time was heard a moſt terrible great Thunder, with much Lightning: it burned a Barne full of Corne downe to the ground, and then tooke hold of the Church, burned a great part of the ſame, mel<g ref="char:EOLhyphen"/>ted the Bells and Lead of the Stée<g ref="char:EOLhyphen"/>ple, and diſperſed the ſame in little péeces all about the Church.</p>
+            <p>The tenth of <hi>June</hi> laſt, it was ſuch a ſtorme in <hi>Wales</hi> in <hi>Glamorgan-ſhire</hi> in <hi>Breknoc-ſhire,</hi> &amp; divers other parts of that County, that by the ſtorme &amp; flood that fell after, it drowned many ſellers of ſalt, &amp; carried away many fields of corne &amp; hay; &amp; to the wonder &amp; aſtoniſhment of all that heares it, it carried away 7 dwelling-houſes
+<pb facs="tcp:65903:6"/>in one place, &amp; 5 in another, &amp; a great bridge; it carried not only the houſes, but the people &amp; all that was in the<g ref="char:cmbAbbrStroke">̄</g>, a ſad wofull ſight to behold.</p>
+            <p>The Lord deſtroyed the world in <hi>Noahs</hi> time with a flood, &amp; he deſtroy<g ref="char:EOLhyphen"/>ed <hi>Sodom</hi> &amp; <hi>Gomorrah</hi> with fire and brimſton, &amp; he made a Covenant that hee would not deſtroy the world no more by water: he hath kept his Co<g ref="char:EOLhyphen"/>venant with us, but how many Co<g ref="char:EOLhyphen"/>venants, Oathes, and Proteſtations have we broaken with him? Let us conſider with our ſelves, &amp; not pro<g ref="char:EOLhyphen"/>voke the Lord our God, he ſhews us by theſe ſignes &amp; wonders, that he is the sſame God, &amp; that he hath the ſeas &amp; waters at his co<g ref="char:cmbAbbrStroke">̄</g>mand; he ſhews us that fire &amp; water are his miniſtring ſpirits to extend y<hi rend="sup">e</hi> viols of his wrath on al rebellious &amp; ſtiff-necked people</p>
+            <p>
+               <hi>The Fooliſh hath ſaid in their heart</hi> (ſaith <hi>David) that there is no God;</hi> I am afraid, that in theſe ſad and mi<g ref="char:EOLhyphen"/>ſerable times, that there are too ma<g ref="char:EOLhyphen"/>ny of ſuch Opinions in this our Na<g ref="char:EOLhyphen"/>tion, that doe not ſtick to ſpeake it openly, and ſay, that all things comes by Nature, and there is neither God
+<pb facs="tcp:65903:6"/>nor Devil: but I deſire all true Chri<g ref="char:EOLhyphen"/>ſtians to beware of ſuch Atheiſts; for though they ſhall not have the happineſſe to ſée there is a God, yet they ſhall acknowledge one day, to their everlaſting ſorrow, that they then féel the powerfull hand of God in puniſhing of ſuch Blaſphemy; and that there is a God that can caſt the<g ref="char:cmbAbbrStroke">̄</g> into that place, where they ſhall ſée there is a Devill to torment and pu<g ref="char:EOLhyphen"/>niſh all ſuch Blaſphemers. You ſée the Lord begins to ſpeak loud to us, to make us know there is a God, and that he will be feared by all ſorts of People.</p>
+            <p>How many ſeverall Warnings hath the LORD ſent to this our ſinfull Nation? Firſt, he ſent the Peſtilence amongſt us, which ſwept away thouſands; and hath not the Sword a long time bin amongſt us, inſomuch that we have ſheathed it in one anothers bowels? hath not the Father bin againſt the Sonne, and the Sonne againſt the Father, and one Brother againſt another? We know not how ſoone the Lord may ſend a Famine amongſt us, for all we
+<pb facs="tcp:65903:7"/>have ſuch plenty now, the Lord bée praiſed.</p>
+            <p>Hath not the Almighty ſhewed Wonders in the Heavens above, and Signe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Earth below; and will none of all theſe ſoften and molli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie our ſtonie-hearts, to ſéeke the Lord our God by unfained Prayer, and ſound Repentance, and never let him go, as <hi>Jacob</hi> did when he wreſt<g ref="char:EOLhyphen"/>led with him, hee would not let him goe till he had bleſſed him, as you may read, in <hi>Gen.</hi> 32.26.</p>
+            <p>Beloved Friends, I would not have you think, that thoſe on whom the hand of the Lord hath fallen by theſe accidents, are greater Sinners then we; for remember what Chriſt ſaith in the 23 Chap. of <hi>Luke,</hi> ſpea<g ref="char:EOLhyphen"/>king of thoſe eightéene on whom the Tower of <hi>Siloe</hi> fell; for, ſaith he, <hi>Un<g ref="char:EOLhyphen"/>leſſe ye Repent, ye ſhall all likewiſe periſh.</hi> Therefore let us take war<g ref="char:EOLhyphen"/>ning by thoſe examples, for we know not whoſe turne it is next.</p>
+            <p>Prayer is the ſafeſt B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lwarke that we ſhall find in theſe times, to protect us againſt all our Enemies; if any thing wil prevaile with God,
+<pb facs="tcp:65903:7"/>to ſtop his Wrath, which is like to be poured out upon this land, it muſt be by that means. When <hi>Jonah</hi> pro<g ref="char:EOLhyphen"/>claimed yet forty dayes and <hi>Nini<g ref="char:EOLhyphen"/>veh</hi> ſhall be deſtroyed, yet by Prayer &amp; Faſting the Lord repented him of the evill he pretended, and he did it not; as you may read in the 3 of <hi>Jo<g ref="char:EOLhyphen"/>nah;</hi> againe, you may read in <hi>Martin Luthers</hi> time, one had made a Cove<g ref="char:EOLhyphen"/>nant with the Devill, &amp; had ſealed a Bond with his blood, and delivered it to him, and when he had made it known to <hi>Martin Luther,</hi> of his ſad condition; by Prayer that zealous Father prevailed ſo much with God, that the Devill was forced to come and deliver the Bond up, and ſo ſav<g ref="char:EOLhyphen"/>ed this poore Soule, which was as it were almoſt loſt.</p>
+            <p>By Prayer <hi>Joſhua</hi> prevailed with God, that the Sun and Moone ſtood ſtill till he had avenged himſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe of his Enemies, as you may read in <hi>Joſhua</hi> 9.13.</p>
+            <p>By Prayer <hi>Moſes</hi> prevailed with God, ſo that he deſtroyed not the peo<g ref="char:EOLhyphen"/>ple, as he intended, when they made the molten Calfe, &amp; worſhipped it:
+<pb n="12" facs="tcp:65903:8"/>But pray heare what the Lord ſaid unto <hi>Moſes, Let me alone that I may deſtroy this people, Exod.</hi> 33.10. So that you may ſée that Prayer did, as it were, binde the hands of God, ſo that he could not deſtroy the people, by reaſon <hi>Moſes</hi> prayer was ſo fer<g ref="char:EOLhyphen"/>vent to him for them.</p>
+            <p>By Prayer the Plague ceaſed in <hi>Davids</hi> time, &amp; by Prayer and Repen<g ref="char:EOLhyphen"/>tance he had his ſins forgiven.</p>
+            <p>There is a many that are living at this preſent, that can remember how wonderfully God did aflict the City of <hi>London,</hi> and divers other places in this our Nation, by his Scourge of Peſtilence, but yet by their earneſt Prayers and Suppli<g ref="char:EOLhyphen"/>cations to Almighty God, it pleaſed the Lord to ſtay his hand.</p>
+            <p>Nay, what is it that Prayer will not do, if it be done with earneſtnes and ſincerity? Therefore I deſire all true Chriſtians whatſoever, whether they bee rich or poore, old or young, to arme themſelves by Prayer and Repentance, againſt the Aſſaults of the Devill; that they may not run head-long to ruine and
+<pb n="13" facs="tcp:65903:8"/>deſpaire, as many of late hath done ſince this Yeare begun, and made away themſelves, to the great grief of their friends.</p>
+            <p>Likewiſe, arme your ſelves by Prayer and Supplications to Al<g ref="char:EOLhyphen"/>mighty GOD, in the Name of Ie<g ref="char:EOLhyphen"/>ſus Chriſt our bleſſed Saviour, and you néed not feare what man can doe againſt you, for hee hath promiſed Mercy to all thoſe that call upon his Name.</p>
+            <p>When had we not more néed of Prayer, and when was it leſſe uſed then now; ſome holds it ſuperſtition to uſe the forme of Prayer, but let them poore ſoules that hath not the Spirit of Prayer, let them ſéeke by Forme of Prayer, for the Lord will hearken to the cryes of his People: <hi>I called unto the Lord</hi> (ſaid <hi>David) and he heard me, and delivered me out of all my troubles.</hi>
+            </p>
+            <p>Againe I ſay, arme your ſelves by Prayer and Repentance, and you néed not feare Thunder and Light<g ref="char:EOLhyphen"/>ning, Sword, Peſtilence, nor Fa<g ref="char:EOLhyphen"/>mine: it will be your beſt Buckler in the time of Warre, it will be your
+<pb facs="tcp:65903:9"/>beſt Phyſician againſt ſickneſſe, it will be a good Store-houſe for you in the time of Famine; and ſo I conclude, in that ſhort Prayer that once was uſed in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> in which I am perſwaded no good Chriſtian can ſay that there is any hurt.</p>
+            <closer>From Lightning and Tempeſt, from Plague, Peſtilence, and Famine, <hi>Good Lord deliver us.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>depiction of a congregation</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
